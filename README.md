@@ -4,6 +4,7 @@
   - [Heading Elements `<h></h>`](#heading-elements-hh)
     - [Header Challenge!](#header-challenge)
       - [Heading Element Code](#heading-element-code)
+  - [Paragraph Elements `<p></p>`](#paragraph-elements-pp)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -30,4 +31,7 @@ The `<h1></h1>` element defines the main page header and there should only be 1 
 ### Header Challenge!
 Assign header tags to create a book contents page.
 #### [Heading Element Code](<Heading Element>)
+
+
+## Paragraph Elements `<p></p>`
 
