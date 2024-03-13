@@ -7,6 +7,9 @@
   - [Paragraph Elements `<p></p>`](#paragraph-elements-pp)
     - [Paragrah Challenge!](#paragrah-challenge)
       - [Paragraph Element Code](#paragraph-element-code)
+  - [Void Elements (Self-Closing Tags).](#void-elements-self-closing-tags)
+    - [Void Element challenge!](#void-element-challenge)
+      - [Void element Code](#void-element-code)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -42,5 +45,26 @@ The paragraph element `<p></p>` is used to seperate paragraphs of text and uses 
 ### Paragrah Challenge!
 
 Assign paragraph tags to the text in order to render paragraphs in the browser.
+
 #### [Paragraph Element Code](Paragraph_Element)
+
+
+## Void Elements (Self-Closing Tags).
+
+There are a number of elements that are self closing and so do not require a closing tag at the end.
+
+an example of these are:
+
+`<br>` - Line break
+`<hr>` - Horizontal Rule (draws a horizontal line across the page).
+
+They are known as 'void elements' because they essentially create a 'void' on the screen to separate text.
+
+### Void Element challenge!
+
+Format the document to match the instructors example. It should contain h1, P, br and an hr at minimum.
+
+#### [Void element Code](Void_Elements)
+
+
 
