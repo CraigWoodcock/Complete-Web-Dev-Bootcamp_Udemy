@@ -26,7 +26,7 @@ Each section will contain a index.html file which is where my work will be found
 
 ## HTML
 
-- What is HTML?
+What is HTML?
 
 HTML - Hyper Text Markup Language is what we use to define what will be on our web page and in what order they should be displayed in our browser.
 
