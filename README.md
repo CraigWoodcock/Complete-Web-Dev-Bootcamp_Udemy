@@ -76,7 +76,9 @@ Replicate the instructors Movie ranking webpage. Adding 3 Movies of My Choice.
 
 #### [Novie Ranking Project Code](Movie_Ranking_Project)
 
+I added a simple css stylesheet to change background color, align text to centre and make the hr black
 
+![Movie Ranking Screenshot](Movie_Ranking_Project/MySolution.png)
 
 
 
