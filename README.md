@@ -5,6 +5,8 @@
     - [Header Challenge!](#header-challenge)
       - [Heading Element Code](#heading-element-code)
   - [Paragraph Elements `<p></p>`](#paragraph-elements-pp)
+    - [Paragrah Challenge!](#paragrah-challenge)
+      - [Paragraph Element Code](#paragraph-element-code)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -30,8 +32,15 @@ The `<h1></h1>` element defines the main page header and there should only be 1 
 
 ### Header Challenge!
 Assign header tags to create a book contents page.
-#### [Heading Element Code](<Heading Element>)
+#### [Heading Element Code](<Heading_Element>)
 
 
 ## Paragraph Elements `<p></p>`
+
+The paragraph element `<p></p>` is used to seperate paragraphs of text and uses an open and close tag.
+
+### Paragrah Challenge!
+
+Assign paragraph tags to the text in order to render paragraphs in the browser.
+#### [Paragraph Element Code](Paragraph_Element)
 
