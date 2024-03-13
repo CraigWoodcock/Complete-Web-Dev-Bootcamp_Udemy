@@ -11,7 +11,10 @@
       - [Void Element challenge!](#void-element-challenge)
       - [Void element Code](#void-element-code)
     - [Movie Ranking Project.](#movie-ranking-project)
-      - [Novie Ranking Project Code](#novie-ranking-project-code)
+      - [Movie Ranking Project Code](#movie-ranking-project-code)
+    - [List Elements](#list-elements)
+      - [List Element Challenge](#list-element-challenge)
+      - [List Elements Code](#list-elements-code)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -74,12 +77,27 @@ Format the document to match the instructors example. It should contain h1, P, b
 
 Replicate the instructors Movie ranking webpage. Adding 3 Movies of My Choice.
 
-#### [Novie Ranking Project Code](Movie_Ranking_Project)
-
 I added a simple css stylesheet to change background color, align text to centre and make the hr black
+
+#### [Movie Ranking Project Code](Movie_Ranking_Project)
 
 ![Movie Ranking Screenshot](Movie_Ranking_Project/MySolution.png)
 
+### List Elements
 
+List elements provide us with a list style formatting. we can have a bullet point style list or a numbered list:
+
+ul = unordered list (bullet points)
+ol = ordered list (numbers)
+
+#### List Element Challenge
+
+format the document to match the instructors solution. Use `ul` and `ol` to create a recipe page.
+
+I also added a css stylesheet with some basic css formatting.
+
+#### [List Elements Code](List_Elements)
+
+![List Elements Screenshot](List_Elements/MySolution.png)
 
 
