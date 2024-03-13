@@ -1,15 +1,17 @@
 - [Complete Web Development Bootcamp Udemy course](#complete-web-development-bootcamp-udemy-course)
   - [Overview](#overview)
-  - [What it HTML?](#what-it-html)
-  - [Heading Elements `<h></h>`](#heading-elements-hh)
-    - [Header Challenge!](#header-challenge)
+  - [HTML](#html)
+    - [Heading Elements `<h></h>`](#heading-elements-hh)
+      - [Header Challenge!](#header-challenge)
       - [Heading Element Code](#heading-element-code)
-  - [Paragraph Elements `<p></p>`](#paragraph-elements-pp)
-    - [Paragrah Challenge!](#paragrah-challenge)
+    - [Paragraph Elements `<p></p>`](#paragraph-elements-pp)
+      - [Paragrah Challenge!](#paragrah-challenge)
       - [Paragraph Element Code](#paragraph-element-code)
-  - [Void Elements (Self-Closing Tags).](#void-elements-self-closing-tags)
-    - [Void Element challenge!](#void-element-challenge)
+    - [Void Elements (Self-Closing Tags).](#void-elements-self-closing-tags)
+      - [Void Element challenge!](#void-element-challenge)
       - [Void element Code](#void-element-code)
+    - [Movie Ranking Project.](#movie-ranking-project)
+      - [Novie Ranking Project Code](#novie-ranking-project-code)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -22,34 +24,36 @@ Although I have experience with HTML and CSS, I have never documented any of my 
 
 Each section will contain a index.html file which is where my work will be found. There will also be a solution.html which shows the instructors solution along with a goal.png to illustrate the instructors solution.
 
-## What it HTML?
+## HTML
+
+- What is HTML?
 
 HTML - Hyper Text Markup Language is what we use to define what will be on our web page and in what order they should be displayed in our browser.
 
 
-## Heading Elements `<h></h>`
+### Heading Elements `<h></h>`
 
 Heading Elements are used to turn text into headers. there are 6 header tags `<h1></h1> - <h6></h6>` and should be used to indicate different header sizes/importance throughout our web page. 
 
 The `<h1></h1>` element defines the main page header and there should only be 1 in each html file.
 
-### Header Challenge!
+#### Header Challenge!
 Assign header tags to create a book contents page.
 #### [Heading Element Code](<Heading_Element>)
 
 
-## Paragraph Elements `<p></p>`
+### Paragraph Elements `<p></p>`
 
 The paragraph element `<p></p>` is used to seperate paragraphs of text and uses an open and close tag.
 
-### Paragrah Challenge!
+#### Paragrah Challenge!
 
 Assign paragraph tags to the text in order to render paragraphs in the browser.
 
 #### [Paragraph Element Code](Paragraph_Element)
 
 
-## Void Elements (Self-Closing Tags).
+### Void Elements (Self-Closing Tags).
 
 There are a number of elements that are self closing and so do not require a closing tag at the end.
 
@@ -60,11 +64,20 @@ an example of these are:
 
 They are known as 'void elements' because they essentially create a 'void' on the screen to separate text.
 
-### Void Element challenge!
+#### Void Element challenge!
 
 Format the document to match the instructors example. It should contain h1, P, br and an hr at minimum.
 
 #### [Void element Code](Void_Elements)
+
+### Movie Ranking Project.
+
+Replicate the instructors Movie ranking webpage. Adding 3 Movies of My Choice.
+
+#### [Novie Ranking Project Code](Movie_Ranking_Project)
+
+
+
 
 
 
