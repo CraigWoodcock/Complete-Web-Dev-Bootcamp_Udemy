@@ -17,6 +17,7 @@
       - [List Elements Code](#list-elements-code)
     - [Nesting and Indentation](#nesting-and-indentation)
     - [Anchor Elements](#anchor-elements)
+    - [Image Elements](#image-elements)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -108,5 +109,11 @@ I also added a css stylesheet with some basic css formatting.
 
 
 ### Anchor Elements
+
+
 ![Anchor Elements Screenshot](Anchor_Elements/MySolution.png)
+
+### Image Elements
+
+![Image elements screenshot](Image_Elements/MySolution.png)
 
