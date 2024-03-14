@@ -104,7 +104,9 @@ I also added a css stylesheet with some basic css formatting.
 
 ### Nesting and Indentation
 
+![Nesting & Indentation Screenshot](Nesting_and_Indentation/MySolution.png)
+
 
 ### Anchor Elements
-
+![Anchor Elements Screenshot](Anchor_Elements/MySolution.png)
 
