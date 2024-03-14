@@ -16,8 +16,13 @@
       - [List Element Challenge](#list-element-challenge)
       - [List Elements Code](#list-elements-code)
     - [Nesting and Indentation](#nesting-and-indentation)
+      - [Nesting \& Indentation Code](#nesting--indentation-code)
     - [Anchor Elements](#anchor-elements)
+      - [Anchor Elements Code](#anchor-elements-code)
     - [Image Elements](#image-elements)
+      - [image Elements Code](#image-elements-code)
+    - [Birthday Party Invite Project](#birthday-party-invite-project)
+      - [Birthday Invite Code](#birthday-invite-code)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -101,19 +106,26 @@ I also added a css stylesheet with some basic css formatting.
 
 #### [List Elements Code](List_Elements)
 
-![List Elements Screenshot](List_Elements/MySolution.png)
+![List Elements Screenshot](List_Elements/MySolution.png)<br>
 
 ### Nesting and Indentation
-
-![Nesting & Indentation Screenshot](Nesting_and_Indentation/MySolution.png)
+#### [Nesting & Indentation Code](Nesting_and_Indentation)<br>
+![Nesting & Indentation Screenshot](Nesting_and_Indentation/MySolution.png)<br>
 
 
 ### Anchor Elements
 
-
-![Anchor Elements Screenshot](Anchor_Elements/MySolution.png)
+#### [Anchor Elements Code](Anchor_Elements)<br>
+![Anchor Elements Screenshot](Anchor_Elements/MySolution.png)<br>
 
 ### Image Elements
+#### [image Elements Code](Image_Elements)<br>
+![Image Elements Screenshot](Image_Elements/MySolution.png)<br>
 
-![Image elements screenshot](Image_Elements/MySolution.png)
+### Birthday Party Invite Project
 
+In this project I was tasked with creating a birthday party invite incorporating an image, ordered list, unordered list and a link to google maps.
+
+#### [Birthday Invite Code](Birthday_Invite_Project)
+
+![Birthday Invite Screenshot](Birthday_Invite_Project/MySolution.png)
