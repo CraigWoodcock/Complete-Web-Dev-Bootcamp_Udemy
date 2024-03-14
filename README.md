@@ -15,6 +15,8 @@
     - [List Elements](#list-elements)
       - [List Element Challenge](#list-element-challenge)
       - [List Elements Code](#list-elements-code)
+    - [Nesting and Indentation](#nesting-and-indentation)
+    - [Anchor Elements](#anchor-elements)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -99,5 +101,10 @@ I also added a css stylesheet with some basic css formatting.
 #### [List Elements Code](List_Elements)
 
 ![List Elements Screenshot](List_Elements/MySolution.png)
+
+### Nesting and Indentation
+
+
+### Anchor Elements
 
 
