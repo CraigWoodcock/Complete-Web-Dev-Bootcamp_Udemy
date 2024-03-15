@@ -26,6 +26,7 @@
     - [Webpages](#webpages)
       - [Webpages code ](#webpages-code-)
     - [Personal Portfolio Project](#personal-portfolio-project)
+      - [Personal Portfolio Code](#personal-portfolio-code)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -146,8 +147,8 @@ In this section i will be creating a basic website with a homepage, an 'about me
 
 ### Personal Portfolio Project
 
-Here i will be creating a personal portfolio website using only html.
+Here I will be creating a personal portfolio website using only html. It will be a multi-site webpage with links to individual projects, about me page and contact details page.
 
-[Personal Portfolio Code](HTML_Porfolio_Project)
+#### [Personal Portfolio Code](HTML_Porfolio_Project)
 
 ![Personal Portfolio Screenshot](HTML_Porfolio_Project/MySolution.png)
