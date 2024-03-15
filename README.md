@@ -1,5 +1,7 @@
 - [Complete Web Development Bootcamp Udemy course](#complete-web-development-bootcamp-udemy-course)
   - [Overview](#overview)
+  - [Capstone Projects](#capstone-projects)
+    - [Capstone Projects Link](#capstone-projects-link)
   - [HTML](#html)
     - [Heading Elements `<h></h>`](#heading-elements-hh)
       - [Header Challenge!](#header-challenge)
@@ -39,6 +41,12 @@ This project follows along with a Udemy course on Web Development using HTML, CS
 Although I have experience with HTML and CSS, I have never documented any of my work and so I will be completing sections that I am already familiar with in order to document them properly.
 
 Each section will contain a index.html file which is where my work will be found. There will also be a solution.html which shows the instructors solution along with a goal.png to illustrate the instructors solution.
+
+## Capstone Projects
+
+Here you will find Capstone projects that have been set during this course. Each project will contain a readme file with project requirements and must be completed from scratch. There will be no code-along or instructor walk-through for these projects and they will be my own work.
+
+### [Capstone Projects Link](Capstone_Projects)
 
 ## HTML
 
