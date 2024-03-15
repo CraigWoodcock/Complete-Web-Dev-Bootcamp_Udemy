@@ -7,10 +7,10 @@
     - [Paragraph Elements `<p></p>`](#paragraph-elements-pp)
       - [Paragrah Challenge!](#paragrah-challenge)
       - [Paragraph Element Code](#paragraph-element-code)
-    - [Void Elements (Self-Closing Tags).](#void-elements-self-closing-tags)
+    - [Void Elements (Self-Closing Tags)](#void-elements-self-closing-tags)
       - [Void Element challenge!](#void-element-challenge)
       - [Void element Code](#void-element-code)
-    - [Movie Ranking Project.](#movie-ranking-project)
+    - [Movie Ranking Project](#movie-ranking-project)
       - [Movie Ranking Project Code](#movie-ranking-project-code)
     - [List Elements](#list-elements)
       - [List Element Challenge](#list-element-challenge)
@@ -23,8 +23,9 @@
       - [image Elements Code](#image-elements-code)
     - [Birthday Party Invite Project](#birthday-party-invite-project)
       - [Birthday Invite Code](#birthday-invite-code)
-    - [Webpages.](#webpages)
+    - [Webpages](#webpages)
       - [Webpages code ](#webpages-code-)
+    - [Personal Portfolio Project](#personal-portfolio-project)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -66,7 +67,7 @@ Assign paragraph tags to the text in order to render paragraphs in the browser.
 #### [Paragraph Element Code](Paragraph_Element)
 
 
-### Void Elements (Self-Closing Tags).
+### Void Elements (Self-Closing Tags)
 
 There are a number of elements that are self closing and so do not require a closing tag at the end.
 
@@ -83,7 +84,7 @@ Format the document to match the instructors example. It should contain h1, P, b
 
 #### [Void element Code](Void_Elements)
 
-### Movie Ranking Project.
+### Movie Ranking Project
 
 Replicate the instructors Movie ranking webpage. Adding 3 Movies of My Choice.
 
@@ -133,7 +134,7 @@ In this project I was tasked with creating a birthday party invite incorporating
 ![Birthday Invite Screenshot](Birthday_Invite_Project/MySolution.png)
 
 
-### Webpages.
+### Webpages
 
 what is a webpage? Well, a website is made up of a collection of files(usually html) that link to each other using anchor tags. For example we might have a home web page (or homepage) that has an 'About Me' Link. When clicked, this link will take the user to another webpage that contains information about me. The 'About me' page might then have a link to the homepage. This is essentially what webpages are. Each separate page on the website has it's own file.
 
@@ -142,3 +143,11 @@ In this section i will be creating a basic website with a homepage, an 'about me
 #### [Webpages code ](Webpages)
 
 ![Webpages Screenshot](Webpages/MySolution.png)
+
+### Personal Portfolio Project
+
+Here i will be creating a personal portfolio website using only html.
+
+[Personal Portfolio Code](HTML_Porfolio_Project)
+
+![Personal Portfolio Screenshot](HTML_Porfolio_Project/MySolution.png)
