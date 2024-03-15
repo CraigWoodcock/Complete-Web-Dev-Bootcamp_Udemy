@@ -23,6 +23,8 @@
       - [image Elements Code](#image-elements-code)
     - [Birthday Party Invite Project](#birthday-party-invite-project)
       - [Birthday Invite Code](#birthday-invite-code)
+    - [Webpages.](#webpages)
+      - [Webpages code ](#webpages-code-)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -129,3 +131,14 @@ In this project I was tasked with creating a birthday party invite incorporating
 #### [Birthday Invite Code](Birthday_Invite_Project)
 
 ![Birthday Invite Screenshot](Birthday_Invite_Project/MySolution.png)
+
+
+### Webpages.
+
+what is a webpage? Well, a website is made up of a collection of files(usually html) that link to each other using anchor tags. For example we might have a home web page (or homepage) that has an 'About Me' Link. When clicked, this link will take the user to another webpage that contains information about me. The 'About me' page might then have a link to the homepage. This is essentially what webpages are. Each separate page on the website has it's own file.
+
+In this section i will be creating a basic website with a homepage, an 'about me' section that can be accessed by clicking on my profile picture and a 'contact me' link that takes the user to contact information.
+
+#### [Webpages code ](Webpages)
+
+![Webpages Screenshot](Webpages/MySolution.png)
