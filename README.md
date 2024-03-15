@@ -26,6 +26,7 @@
     - [Webpages](#webpages)
       - [Webpages code ](#webpages-code-)
     - [Personal Portfolio Project](#personal-portfolio-project)
+      - [Personal Portfolio Link](#personal-portfolio-link)
       - [Personal Portfolio Code](#personal-portfolio-code)
 
 
@@ -148,6 +149,10 @@ In this section i will be creating a basic website with a homepage, an 'about me
 ### Personal Portfolio Project
 
 Here I will be creating a personal portfolio website using only html. It will be a multi-site webpage with links to individual projects, about me page and contact details page.
+
+This portfolio can be found at this link:
+
+#### [Personal Portfolio Link](https://craigwoodcock.github.io/html-portfolio/)
 
 #### [Personal Portfolio Code](HTML_Porfolio_Project)
 
