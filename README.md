@@ -36,6 +36,8 @@
       - [Inline CSS](#inline-css)
       - [Internal CSS](#internal-css)
       - [External CSS](#external-css)
+    - [CSS Selectors](#css-selectors)
+  - [Javascript](#javascript)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -224,6 +226,43 @@ h1 {
 }
 
 ```
+### CSS Selectors
 
+we can target different elements using different selectors:
 
+```
+/* targets all paragraphs */
+p {
+  color: red;
+}
 
+/* targets everything with the class of "note" */
+.note{
+
+  font-size: 20px;
+}
+
+/* targets the element with the id of "id-selector-demo" */
+#id-selector-demo {
+  color: green;
+}
+
+/* targets a list item with the value attribute of 4 */
+li[value="4"]{
+
+  color: blue;
+}
+
+/* targets all elements */
+* {
+
+  text-align: center;
+}
+
+```
+
+The above CSS produces the following output:
+
+![MySolution Image](CSS_Selectors/MySolution.png)
+
+## Javascript

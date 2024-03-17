@@ -1,0 +1,35 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+/* targets all paragraphs */
+p {
+  color: red;
+}
+
+/* targets everything with the class of "note" */
+.note{
+
+  font-size: 20px;
+}
+
+/* targets the element with the id of "id-selector-demo" */
+#id-selector-demo {
+  color: green;
+}
+
+/* targets a list item with the value attribute of 4 */
+li[value="4"]{
+
+  color: blue;
+}
+
+/* targets all elements */
+* {
+
+  text-align: center;
+}
