@@ -31,6 +31,11 @@
       - [Personal Portfolio Link](#personal-portfolio-link)
       - [Personal Portfolio Code](#personal-portfolio-code)
   - [CSS](#css)
+    - [Adding CSS](#adding-css)
+      - [Adding CSS Code](#adding-css-code)
+      - [Inline CSS](#inline-css)
+      - [Internal CSS](#internal-css)
+      - [External CSS](#external-css)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -170,6 +175,55 @@ This portfolio can be found at this link:
 ## CSS
 
 CSS - Cascading Stylesheet is a style sheet that we use to add styles and formatting to html documents.
+
+### Adding CSS
+
+We can add CSS to our webpages with 3 methods: Inline, Internal Stylesheets and External Stylesheets
+
+#### [Adding CSS Code](Adding_CSS)
+
+#### Inline CSS
+
+we can use inline styles when we only need to change 1 element on the page. we do this by setting the `style` attribute on the element itself like so:
+
+```
+<h1 style="color: blue;">Style Me in Blue!</h1>
+```
+
+#### Internal CSS
+
+we can use Internal CSS styles, this is added to the 'head' of the html document. This is not recommended as it could make editing more challenging later on. By using internal css, we can only use that css on that particular html document.
+
+```
+<head>
+ <style>
+    h1 {
+      color: red;
+    }
+
+  </style>
+</head>
+
+```
+
+#### External CSS
+
+External CSS is preferred as it means we can reuse components and formatting accross our website making it uniform and easier to modify.
+
+we add a `<link>` tag to the head of our html document and specify the style.css file;
+
+```
+ <link rel="stylesheet" href="style.css">
+```
+
+we then specify our styles inside that `style.css` file:
+
+```
+h1 {
+    color: green;
+}
+
+```
 
 
 
