@@ -30,6 +30,7 @@
     - [Personal Portfolio Project](#personal-portfolio-project)
       - [Personal Portfolio Link](#personal-portfolio-link)
       - [Personal Portfolio Code](#personal-portfolio-code)
+  - [CSS](#css)
 
 
 # Complete Web Development Bootcamp Udemy course
@@ -165,3 +166,10 @@ This portfolio can be found at this link:
 #### [Personal Portfolio Code](HTML_Porfolio_Project)
 
 ![Personal Portfolio Screenshot](HTML_Porfolio_Project/MySolution.png)
+
+## CSS
+
+CSS - Cascading Stylesheet is a style sheet that we use to add styles and formatting to html documents.
+
+
+
