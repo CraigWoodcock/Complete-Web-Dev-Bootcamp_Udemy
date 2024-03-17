@@ -37,8 +37,12 @@
       - [Internal CSS](#internal-css)
       - [External CSS](#external-css)
     - [CSS Selectors](#css-selectors)
-      - [CSS Colors Project](#css-colors-project)
-      - [CSS Colors Project Code](#css-colors-project-code)
+      - [CSS Color Vocab Project](#css-color-vocab-project)
+      - [CSS Color Vocab Project Code](#css-color-vocab-project-code)
+    - [CSS Colors](#css-colors)
+      - [CSS Colors Code](#css-colors-code)
+    - [Font Properties](#font-properties)
+      - [Font Properties Code](#font-properties-code)
   - [Javascript](#javascript)
 
 
@@ -267,7 +271,7 @@ The above CSS produces the following output:
 
 ![MySolution Image](CSS_Selectors/MySolution.png)
 
-#### CSS Colors Project
+#### CSS Color Vocab Project
 
 
 
@@ -281,5 +285,33 @@ Hint: Use the id to help if you don't know the words in spanish.
 3. Use CSS to change all the color titles to have "font-weight: normal;"
 4. Use CSS (not HTML) to make all the images 200px heigh and 200px wide. 
    
-#### [CSS Colors Project Code](Color_Vocab_Project)
+#### [CSS Color Vocab Project Code](Color_Vocab_Project)
+
+### CSS Colors 
+
+ 1. Make the background of the webpage "antiquewhite"
+ 2. Make the h1 "whitesmoke"
+ 3. Make the background of the h1 "darkseagreen"
+ 4. Make the h2 #FAF8F1
+ 5. Make the background of the h2 "#C58940"
+
+#### [CSS Colors Code](CSS_Colors)
+
+![CSS Colors Screenshot](CSS_Colors/MySolution.png)
+
+
+### Font Properties
+
+1. Change the color of <p>Color</p> to "coral" color.
+2. Change the font size of <p>Font Size</p> to 2X the size of the root font size.
+3. Change the font weight of <p>Font Weight</p> to 900.
+4. Change the font family of <p>Font Family</p> to the Google font Caveat with regular (400) font weight.
+Link: https://fonts.google.com/specimen/Caveat
+1. Change the <p>Text Align</p> to right align.
+2. Change the the root (html element) font size to 30px
+
+#### [Font Properties Code](Font_Properties)
+
+![Font Properties Screenshot](Font_Properties/MySolution.png)
+
 ## Javascript
