@@ -7,7 +7,7 @@
       - [Header Challenge!](#header-challenge)
       - [Heading Element Code](#heading-element-code)
     - [Paragraph Elements `<p></p>`](#paragraph-elements-pp)
-      - [Paragrah Challenge!](#paragrah-challenge)
+      - [Paragraph Challenge!](#paragraph-challenge)
       - [Paragraph Element Code](#paragraph-element-code)
     - [Void Elements (Self-Closing Tags)](#void-elements-self-closing-tags)
       - [Void Element challenge!](#void-element-challenge)
@@ -70,7 +70,7 @@ Assign header tags to create a book contents page.
 
 The paragraph element `<p></p>` is used to seperate paragraphs of text and uses an open and close tag.
 
-#### Paragrah Challenge!
+#### Paragraph Challenge!
 
 Assign paragraph tags to the text in order to render paragraphs in the browser.
 
