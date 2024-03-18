@@ -1,4 +1,17 @@
 /* Write your code here: */
+
+/* select multiple elements */
 h1, h2 {
     color: blueviolet;
+}
+
+/* select direct descendent element */
+
+.box > p {
+    color: firebrick;
+}
+
+/* select any descendent element */
+.box li{
+    color: blue;
 }
