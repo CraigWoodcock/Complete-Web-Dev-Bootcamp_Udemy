@@ -43,6 +43,8 @@
       - [CSS Colors Code](#css-colors-code)
     - [Font Properties](#font-properties)
       - [Font Properties Code](#font-properties-code)
+    - [CSS Box Model](#css-box-model)
+      - [CSS Box Model Code](#css-box-model-code)
   - [Javascript](#javascript)
 
 
@@ -313,5 +315,11 @@ Link: https://fonts.google.com/specimen/Caveat
 #### [Font Properties Code](Font_Properties)
 
 ![Font Properties Screenshot](Font_Properties/MySolution.png)
+
+### CSS Box Model
+
+TO-DO!
+
+#### [CSS Box Model Code](CSS_Box_Model)
 
 ## Javascript
