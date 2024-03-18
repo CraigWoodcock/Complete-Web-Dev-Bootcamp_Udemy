@@ -49,6 +49,9 @@
       - [Motivational Poster Project Code](#motivational-poster-project-code)
     - [CSS Cascade](#css-cascade)
       - [CSS Cascade Code](#css-cascade-code)
+    - [CSS Positioning](#css-positioning)
+      - [DONE TO BE ADDED!!](#done-to-be-added)
+    - [CSS Flag Project](#css-flag-project)
   - [Javascript](#javascript)
 
 
@@ -422,5 +425,13 @@ Output:
 
 
 ![CSS Cascade Screenshot](CSS_Cascade/MySolution.png)
+
+### CSS Positioning
+
+#### DONE TO BE ADDED!!
+
+### CSS Flag Project
+
+TO DO
 
 ## Javascript
