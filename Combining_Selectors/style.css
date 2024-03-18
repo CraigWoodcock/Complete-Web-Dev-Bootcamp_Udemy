@@ -15,3 +15,8 @@ h1, h2 {
 .box li{
     color: blue;
 }
+
+/* chaining selectors (select list item with class of done) */
+li.done{
+    color: seagreen;
+}
