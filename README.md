@@ -47,6 +47,8 @@
       - [CSS Box Model Code](#css-box-model-code)
     - [Motivational Poster Project](#motivational-poster-project)
       - [Motivational Poster Project Code](#motivational-poster-project-code)
+    - [CSS Cascade](#css-cascade)
+      - [CSS Cascade Code](#css-cascade-code)
   - [Javascript](#javascript)
 
 
@@ -359,5 +361,66 @@ But it must have the following features:
 #### [Motivational Poster Project Code](Motivational_Meme_Project)
 
 ![Motivation Project Screenshot](Motivational_Meme_Project/MySolution.png)
+
+### CSS Cascade
+
+Use CSS to make my index.html code look like this:
+![Goal.png](CSS_Cascade/goal.png)
+
+html:
+
+```
+<body>
+  <div id="outer-box" class="box">
+    <div class="box">
+      <p>Yellow Text</p>
+      <div class="box inner-box">
+        <p class="white-text">White Text</p>
+      </div>
+    </div>
+    <div class="box">
+      <p>Yellow Text</p>
+      <div class="box inner-box">
+        <p class="white-text">White Text</p>
+      </div>
+    </div>
+  </div>
+</body>
+
+```
+
+My CSS:
+
+```
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+.inner-box{
+  background-color: red;
+}
+
+#outer-box{
+  background-color: purple;
+}
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text{
+  color: white;
+}
+
+```
+
+Output: 
+
+#### [CSS Cascade Code](CSS_Cascade)
+
+
+![CSS Cascade Screenshot](CSS_Cascade/MySolution.png)
 
 ## Javascript
