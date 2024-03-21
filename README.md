@@ -55,6 +55,11 @@
       - [CSS Flag Code](#css-flag-code)
     - [CSS Display](#css-display)
       - [CSS Display Code](#css-display-code)
+    - [CSS Float](#css-float)
+      - [DONE! TO BE ADDED TO README](#done-to-be-added-to-readme)
+  - [Responsive Web Design](#responsive-web-design)
+    - [Responsiveness](#responsiveness)
+      - [Example Responsive Web Design Code](#example-responsive-web-design-code)
   - [Javascript](#javascript)
 
 
@@ -455,5 +460,15 @@ TODO
 
 ![Solution 1](CSS_Display/MySolution1.png)
 ![Solution 2](CSS_Display/MySolution2.png)
+
+### CSS Float
+
+#### DONE! TO BE ADDED TO README
+
+## Responsive Web Design
+
+### Responsiveness
+
+#### [Example Responsive Web Design Code](Responsive_Web_Design)
 
 ## Javascript
