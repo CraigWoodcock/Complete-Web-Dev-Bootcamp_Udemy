@@ -15,14 +15,14 @@
     }
 
     .red {
-      display: block;
+      display: inline-block;
       width: 200px;
       height: 200px;
       background-color: red;
     }
 
     .green {
-      display: inline;
+      display: inline-block;
       width: 200px;
       height: 200px;
       background-color: green;
@@ -34,15 +34,42 @@
       height: 200px;
       background-color: blue;
     }
+    .redblock {
+      display: block;
+      width: 200px;
+      height: 200px;
+      background-color: red;
+    }
+
+    .greenblock {
+      display: block;
+      width: 200px;
+      height: 200px;
+      background-color: green;
+    }
+
+    .blueblock {
+      display: block;
+      width: 200px;
+      height: 200px;
+      background-color: blue;
+    }
   </style>
 </head>
 
-
 <body>
   <h1>CSS Display Property</h1>
-  <p class="red">Red Paragraph </p>
-  <p class="green">Green Paragraph</p>
-  <p class="blue">Blue Paragraph</p>
+  <h2>Display: Inline-Block</h2>
+  <p class="red">Red Paragraph <br> inline-block</p>
+  <p class="green">Green Paragraph <br> inline-block</p>
+  <p class="blue">Blue Paragraph <br> inline-block</p>
+  <hr>
+
+
+  <h2>Display: Block</h2>
+  <p class="redblock">Red Paragraph <br> block</p>
+  <p class="greenblock">Green Paragraph <br> block</p>
+  <p class="blueblock">Blue Paragraph <br> block</p>
 </body>
 
 </html>

@@ -53,6 +53,8 @@
       - [CSS Positioning Code](#css-positioning-code)
     - [CSS Flag Project](#css-flag-project)
       - [CSS Flag Code](#css-flag-code)
+    - [CSS Display](#css-display)
+      - [CSS Display Code](#css-display-code)
   - [Javascript](#javascript)
 
 
@@ -442,5 +444,16 @@ Create the flag of Laos using CSS.
 #### [CSS Flag Code](CSS_Flag_Project)
 
 ![CSS Flag Screenshot](CSS_Flag_Project/MySolution.png)
+
+### CSS Display
+
+TODO
+1. By changing only the display property of the CSS make all 3 squares line up horizontally like in goal1 image.
+2. Change only the display property to make all 3 squares line up vertically like in goal2 image. 
+
+#### [CSS Display Code](CSS_Display)
+
+![Solution 1](CSS_Display/MySolution1.png)
+![Solution 2](CSS_Display/MySolution2.png)
 
 ## Javascript
