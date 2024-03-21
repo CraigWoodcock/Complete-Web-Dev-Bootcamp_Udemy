@@ -60,6 +60,8 @@
   - [Responsive Web Design](#responsive-web-design)
     - [Responsiveness](#responsiveness)
       - [Example Responsive Web Design Code](#example-responsive-web-design-code)
+    - [Media Queries](#media-queries)
+    - [Flexbox](#flexbox)
   - [Javascript](#javascript)
 
 
@@ -470,5 +472,9 @@ TODO
 ### Responsiveness
 
 #### [Example Responsive Web Design Code](Responsive_Web_Design)
+
+### Media Queries
+
+### Flexbox
 
 ## Javascript
