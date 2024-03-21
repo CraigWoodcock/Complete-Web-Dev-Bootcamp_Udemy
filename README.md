@@ -50,8 +50,9 @@
     - [CSS Cascade](#css-cascade)
       - [CSS Cascade Code](#css-cascade-code)
     - [CSS Positioning](#css-positioning)
-      - [DONE TO BE ADDED!!](#done-to-be-added)
+      - [CSS Positioning Code](#css-positioning-code)
     - [CSS Flag Project](#css-flag-project)
+      - [CSS Flag Code](#css-flag-code)
   - [Javascript](#javascript)
 
 
@@ -428,10 +429,18 @@ Output:
 
 ### CSS Positioning
 
-#### DONE TO BE ADDED!!
+Copy the Instructors goal.png using CSS.
+
+#### [CSS Positioning Code](CSS_Positioning)
+
+![CSS Positioning Screenshot](CSS_Positioning/MySolution.png)
 
 ### CSS Flag Project
 
-TO DO
+Create the flag of Laos using CSS.
+
+#### [CSS Flag Code](CSS_Flag_Project)
+
+![CSS Flag Screenshot](CSS_Flag_Project/MySolution.png)
 
 ## Javascript
