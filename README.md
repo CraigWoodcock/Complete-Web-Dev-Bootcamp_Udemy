@@ -56,7 +56,7 @@
     - [CSS Display](#css-display)
       - [CSS Display Code](#css-display-code)
     - [CSS Float](#css-float)
-      - [DONE! TO BE ADDED TO README](#done-to-be-added-to-readme)
+      - [CSS Float Code](#css-float-code)
   - [Responsive Web Design](#responsive-web-design)
     - [Responsiveness](#responsiveness)
       - [Example Responsive Web Design Code](#example-responsive-web-design-code)
@@ -465,7 +465,14 @@ TODO
 
 ### CSS Float
 
-#### DONE! TO BE ADDED TO README
+TODO
+1. Make both paragraph elements wrap around the image.
+2. Use Float to move the cat div to the left and the dog div to the right.
+3. Use clear to make the footer go below both the cat and dog div.
+
+#### [CSS Float Code](CSS_Float)
+
+![CSS Float Screenshot](CSS_Float/MySolution.png)
 
 ## Responsive Web Design
 
