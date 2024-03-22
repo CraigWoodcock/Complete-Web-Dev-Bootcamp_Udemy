@@ -61,6 +61,7 @@
     - [Responsiveness](#responsiveness)
       - [Example Responsive Web Design Code](#example-responsive-web-design-code)
     - [Media Queries](#media-queries)
+      - [Media Queries Code](#media-queries-code)
     - [Flexbox](#flexbox)
   - [Javascript](#javascript)
 
@@ -481,6 +482,45 @@ TODO
 #### [Example Responsive Web Design Code](Responsive_Web_Design)
 
 ### Media Queries
+
+TODO: Change the background color for each device
+[lightsalmon] Mobile Devices: 319px — 480px
+[powderblue] iPads and Tablets: 481px — 1200px
+[limegreen] Laptops: 1201px — 1600px
+[seagreen] Desktops: 1601px and more
+
+My Solution:
+```
+  <style>
+    body {
+      background-color: aquamarine;
+    }
+    @media(max-width:480px){
+      body{
+        background-color: lightsalmon;
+      }
+    }
+    @media(min-width:481px) and (max-width:1200px){
+      body{
+        background-color: powderblue;
+      }
+    }
+    @media(min-width:1201px) and (max-width:1600px){
+      body{
+        background-color: limegreen;
+      }
+    }
+    @media(min-width:1601px){
+      body{
+        background-color: seagreen;
+      }
+    }
+   
+  </style>
+
+```
+
+#### [Media Queries Code](Media_Queries)
 
 ### Flexbox
 
