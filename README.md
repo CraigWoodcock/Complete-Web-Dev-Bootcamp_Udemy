@@ -62,7 +62,10 @@
       - [Example Responsive Web Design Code](#example-responsive-web-design-code)
     - [Media Queries](#media-queries)
       - [Media Queries Code](#media-queries-code)
+    - [Web Design Project](#web-design-project)
+      - [Web Design Agency Project Code](#web-design-agency-project-code)
     - [Flexbox](#flexbox)
+      - [](#)
   - [Javascript](#javascript)
 
 
@@ -522,6 +525,13 @@ My Solution:
 
 #### [Media Queries Code](Media_Queries)
 
+### Web Design Project
+
+Create a responsive Web Design Agency website using media queries to make the website responsive to different screen sizes.
+
+#### [Web Design Agency Project Code](Web_Design_Agency_Project)
+
 ### Flexbox
 
+#### 
 ## Javascript
