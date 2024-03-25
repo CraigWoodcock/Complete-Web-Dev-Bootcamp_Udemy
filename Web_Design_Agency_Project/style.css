@@ -38,4 +38,27 @@ footer {
   color: midnightblue;
 }
 
+@media (max-width: 675px) {
+  .logo{
+    width: 100px;
+  }
+  h1 {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+  .card{
+    display: block;
+    width: 100%;
+    text-align: justify;
+  }
+
+  .tile-image{
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    display: inline;
+    object-fit: cover;
+  }
+
+}
 
