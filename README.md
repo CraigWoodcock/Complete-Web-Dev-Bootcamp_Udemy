@@ -65,6 +65,7 @@
     - [Web Design Project](#web-design-project)
       - [Web Design Agency Project Code](#web-design-agency-project-code)
     - [Flexbox](#flexbox)
+      - [Display: flex code](#display-flex-code)
       - [](#)
   - [Javascript](#javascript)
 
@@ -532,6 +533,12 @@ Create a responsive Web Design Agency website using media queries to make the we
 #### [Web Design Agency Project Code](Web_Design_Agency_Project)
 
 ### Flexbox
+
+Change the display property of the navbar to utilise flexbox and make the elements inline.
+
+#### [Display: flex code](Display_Flex)
+
+![Display:flex Screenshot](Display_Flex/MySolution.png)
 
 #### 
 ## Javascript
