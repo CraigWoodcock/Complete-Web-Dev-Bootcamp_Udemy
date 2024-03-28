@@ -66,8 +66,10 @@
       - [Web Design Agency Project Code](#web-design-agency-project-code)
     - [Flexbox](#flexbox)
       - [Display: flex code](#display-flex-code)
-    - [Flex-Direction](#flex-direction)
+    - [Flex Direction](#flex-direction)
       - [Flex-direction Code](#flex-direction-code)
+    - [Flex Layout](#flex-layout)
+      - [`order: 0;`](#order-0)
   - [Javascript](#javascript)
 
 
@@ -541,10 +543,34 @@ Change the display property of the navbar to utilise flexbox and make the elemen
 
 ![Display:flex Screenshot](Display_Flex/MySolution.png)
 
-### Flex-Direction
+### Flex Direction
 
 We can control the flow of elements when using flex by changing it's direction. By default, flex-direction is set to 'row' so elements in a flex container will be inline elements.
 
 #### [Flex-direction Code](Flex_Direction)
+
+
+### Flex Layout
+
+#### `order: 0;`
+
+By default, all flex items have an order of 0. we can change the order of elements by applying the order property.
+
+The following code will make the `.red` item appear last and the `.indigo` item appear first.
+
+```
+    .red {background-color: #eb4d4b;
+    order: 1;}
+    .orange {background-color: #f0932b;}
+    .yellow {background-color: #f6e58d;}
+    .green {background-color: #6ab04c;}
+    .blue {background-color: #4834d4;}
+    .indigo {background-color: #30336b;
+    order: -1;}
+    .purple {background-color: #be2edd;}
+
+```
+
+
 
 ## Javascript
