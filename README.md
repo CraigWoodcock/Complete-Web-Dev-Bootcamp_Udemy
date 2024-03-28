@@ -66,7 +66,8 @@
       - [Web Design Agency Project Code](#web-design-agency-project-code)
     - [Flexbox](#flexbox)
       - [Display: flex code](#display-flex-code)
-      - [](#)
+    - [Flex-Direction](#flex-direction)
+      - [Flex-direction Code](#flex-direction-code)
   - [Javascript](#javascript)
 
 
@@ -540,5 +541,10 @@ Change the display property of the navbar to utilise flexbox and make the elemen
 
 ![Display:flex Screenshot](Display_Flex/MySolution.png)
 
-#### 
+### Flex-Direction
+
+We can control the flow of elements when using flex by changing it's direction. By default, flex-direction is set to 'row' so elements in a flex container will be inline elements.
+
+#### [Flex-direction Code](Flex_Direction)
+
 ## Javascript
