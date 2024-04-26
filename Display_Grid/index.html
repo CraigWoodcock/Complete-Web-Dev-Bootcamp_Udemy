@@ -9,12 +9,14 @@
     /* My colours for white: #f0d9b5, black: #b58863 */
 
     .white {
+      position: relative;
       height: 100px;
       width: 100px;
       background-color: red;
     }
 
     .black {
+      position: relative;
       height: 100px;
       width: 100px;
       background-color: black;
@@ -22,11 +24,31 @@
     }
 
     .container {
-      max-width: 800px;
+      width: 800px;
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
       grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 
+    }
+    .black-counter{
+      position: absolute;
+      height: 90px;
+      width: 90px;
+      background-color: black;
+      border-radius: 50%;
+      border: 1px solid white;
+      top: 5px;
+      left: 5px;
+    }
+    .red-counter{
+      position: absolute;
+      height: 90px;
+      width: 90px;
+      background-color: red;
+      border-radius: 50%;
+      border: 1px solid white;
+      top: 5px;
+      left: 5px;
     }
   </style>
 </head>
@@ -36,36 +58,20 @@
   <!-- add black and red checkers pieces to the board, the first 2 rows on the top and bottom! -->
   <div class="container">
     <div class="white"></div>
-    <div class="black"></div>
+    <div class="black"><div class="red-counter"></div></div>
     <div class="white"></div>
-    <div class="black"></div>
+    <div class="black"><div class="red-counter"></div></div>
     <div class="white"></div>
-    <div class="black"></div>
+    <div class="black"><div class="red-counter"></div></div>
     <div class="white"></div>
-    <div class="black"></div>
-    <div class="black"></div>
+    <div class="black"><div class="red-counter"></div></div>
+    <div class="black"><div class="red-counter"></div></div>
     <div class="white"></div>
-    <div class="black"></div>
+    <div class="black"><div class="red-counter"></div></div>
     <div class="white"></div>
-    <div class="black"></div>
+    <div class="black"><div class="red-counter"></div></div>
     <div class="white"></div>
-    <div class="black"></div>
-    <div class="white"></div>
-    <div class="white"></div>
-    <div class="black"></div>
-    <div class="white"></div>
-    <div class="black"></div>
-    <div class="white"></div>
-    <div class="black"></div>
-    <div class="white"></div>
-    <div class="black"></div>
-    <div class="black"></div>
-    <div class="white"></div>
-    <div class="black"></div>
-    <div class="white"></div>
-    <div class="black"></div>
-    <div class="white"></div>
-    <div class="black"></div>
+    <div class="black"><div class="red-counter"></div></div>
     <div class="white"></div>
     <div class="white"></div>
     <div class="black"></div>
@@ -99,6 +105,22 @@
     <div class="white"></div>
     <div class="black"></div>
     <div class="white"></div>
+    <div class="white"><div class="black-counter"></div></div>
+    <div class="black"></div>
+    <div class="white"><div class="black-counter"></div></div>
+    <div class="black"></div>
+    <div class="white"><div class="black-counter"></div></div>
+    <div class="black"></div>
+    <div class="white"><div class="black-counter"></div></div>
+    <div class="black"></div>
+    <div class="black"></div>
+    <div class="white"><div class="black-counter"></div></div>
+    <div class="black"></div>
+    <div class="white"><div class="black-counter"></div></div>
+    <div class="black"></div>
+    <div class="white"><div class="black-counter"></div></div>
+    <div class="black"></div>
+    <div class="white"><div class="black-counter"></div></div>
   </div>
 </body>
 
