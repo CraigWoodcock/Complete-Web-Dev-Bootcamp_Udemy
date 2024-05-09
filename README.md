@@ -547,6 +547,12 @@ Change the display property of the navbar to utilise flexbox and make the elemen
 
 We can control the flow of elements when using flex by changing it's direction. By default, flex-direction is set to 'row' so elements in a flex container will be inline elements.
 
+we can change this by adding the following CSS:
+
+`flex-direction: column`
+
+now elements inside the container will be stacked like block elements.
+
 #### [Flex-direction Code](Flex_Direction)
 
 
