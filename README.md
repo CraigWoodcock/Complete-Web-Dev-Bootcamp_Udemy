@@ -73,6 +73,8 @@
     - [flex-wrap](#flex-wrap)
     - [justify-content](#justify-content)
     - [align-items](#align-items)
+    - [align-self](#align-self)
+    - [align-content](#align-content)
   - [Javascript](#javascript)
 
 
@@ -610,6 +612,13 @@ This only works when `flex-wrap` is set to `nowrap`.
   - center: positions the items in the center of the container.
   - stretch: stretches the items to fill the height of the container.
 
+### align-self
+
+we can use `align-self` on the child item to set its individual position within the container.
+
+### align-content
+
+We use align-content to align content along the main axis when `flex-wrap` is set to `wrap`.
 
 
 
