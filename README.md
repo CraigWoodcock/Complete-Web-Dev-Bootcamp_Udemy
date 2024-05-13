@@ -75,6 +75,7 @@
     - [align-items](#align-items)
     - [align-self](#align-self)
     - [align-content](#align-content)
+  - [CSS Tricks - Flexbox Cheat Sheet](#css-tricks---flexbox-cheat-sheet)
   - [Javascript](#javascript)
 
 
@@ -619,6 +620,11 @@ we can use `align-self` on the child item to set its individual position within 
 ### align-content
 
 We use align-content to align content along the main axis when `flex-wrap` is set to `wrap`.
+
+
+## CSS Tricks - Flexbox Cheat Sheet
+
+[CSS Flexbox Cheat Sheet Link](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 
