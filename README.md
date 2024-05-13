@@ -70,6 +70,8 @@
       - [Flex-direction Code](#flex-direction-code)
     - [Flex Layout](#flex-layout)
       - [`order: 0;`](#order-0)
+    - [flex-wrap](#flex-wrap)
+    - [justify-content](#justify-content)
   - [Javascript](#javascript)
 
 
@@ -576,6 +578,24 @@ The following code will make the `.red` item appear last and the `.indigo` item 
     .purple {background-color: #be2edd;}
 
 ```
+### flex-wrap
+
+Setting `flex-wrap: wrap` on the flex container will force flex items in the container to wrap onto the next line when there is not enough space for all of the items to be on the same line.
+
+be default this property is set to `nowrap`
+
+`wrap-reverse` will wrap the items in reverse order, so the last item will be placed onto the line above on the far left. 
+
+### justify-content
+
+This allows us to control the position of flex-items along the main axis(by default this is the horizontal axis, unless flex-direction is set to column).
+
+  - flex-start: positions the content at the start of the flex container.
+  - flex-end: positions the content at the end of the flex container
+  - center: positions the content in the center of the flex container.
+
+
+
 
 
 
