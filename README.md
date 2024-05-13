@@ -72,6 +72,7 @@
       - [`order: 0;`](#order-0)
     - [flex-wrap](#flex-wrap)
     - [justify-content](#justify-content)
+    - [align-items](#align-items)
   - [Javascript](#javascript)
 
 
@@ -591,8 +592,25 @@ be default this property is set to `nowrap`
 This allows us to control the position of flex-items along the main axis(by default this is the horizontal axis, unless flex-direction is set to column).
 
   - flex-start: positions the content at the start of the flex container.
-  - flex-end: positions the content at the end of the flex container
+  - flex-end: positions the content at the end of the flex container.
   - center: positions the content in the center of the flex container.
+  - space-evenly: distributes space evenly between all items.
+  - space-between: pushes the outer items to the edge and evenly distributes space between the remaining items.
+  - space-around: positions the items so that the space at the two outer edges combined equals the same as the space between the other items. eg. if the gap between two items is 10px, then the gap between the first item and the edge of the container will be 5px and the gap between the last item and the edge of the container will also be 5px.
+
+### align-items
+
+This allows us to position the content along the cross axis(top to bottom).
+For this to work correctly, we need the container to be taller than the content so that we can move the content around in the container.
+
+This only works when `flex-wrap` is set to `nowrap`.
+
+  - flex-start: positions items at the top of the container.
+  - flex-end: positions items at the bottom of the container.
+  - center: positions the items in the center of the container.
+  - stretch: stretches the items to fill the height of the container.
+
+
 
 
 
