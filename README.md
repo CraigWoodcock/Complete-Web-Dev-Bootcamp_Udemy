@@ -76,6 +76,11 @@
     - [align-self](#align-self)
     - [align-content](#align-content)
   - [CSS Tricks - Flexbox Cheat Sheet](#css-tricks---flexbox-cheat-sheet)
+    - [Display Grid](#display-grid)
+      - [Display: grid code](#display-grid-code)
+    - [Grid Sizing](#grid-sizing)
+      - [Grid Sizing Examples](#grid-sizing-examples)
+      - [Grid Sizing Chaallenge Code](#grid-sizing-chaallenge-code)
   - [Javascript](#javascript)
 
 
@@ -625,6 +630,32 @@ We use align-content to align content along the main axis when `flex-wrap` is se
 ## CSS Tricks - Flexbox Cheat Sheet
 
 [CSS Flexbox Cheat Sheet Link](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+
+### Display Grid
+
+Create a checkers board using css grid.
+
+#### [Display: grid code](Display_Grid)
+### Grid Sizing
+
+Grid sizing can be set in different ways including:
+
+  - auto-sizing (auto)
+  - fixed-sizing (200px)
+  - fractional-sizing (1fr)
+  - minmax-sizing (minmax(200px,500px))
+  - repeat-sizing (repeat(3, 1fr))
+
+#### [Grid Sizing Examples](Grid_Sizing)
+
+Set CSS rules to make the purple items size, shrink and grow the same as the green example items.
+
+#### [Grid Sizing Chaallenge Code](Grid_Sizing/test.html)
+
+
+
+
 
 
 
