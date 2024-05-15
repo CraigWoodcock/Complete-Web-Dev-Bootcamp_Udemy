@@ -65,6 +65,7 @@
     - [Web Design Project](#web-design-project)
       - [Web Design Agency Project Code](#web-design-agency-project-code)
     - [Flexbox](#flexbox)
+      - [CSS Tricks - Flexbox Cheat Sheet](#css-tricks---flexbox-cheat-sheet)
       - [Display: flex code](#display-flex-code)
     - [Flex Direction](#flex-direction)
       - [Flex-direction Code](#flex-direction-code)
@@ -75,12 +76,12 @@
     - [align-items](#align-items)
     - [align-self](#align-self)
     - [align-content](#align-content)
-  - [CSS Tricks - Flexbox Cheat Sheet](#css-tricks---flexbox-cheat-sheet)
     - [Display Grid](#display-grid)
       - [Display: grid code](#display-grid-code)
     - [Grid Sizing](#grid-sizing)
       - [Grid Sizing Examples](#grid-sizing-examples)
-      - [Grid Sizing Chaallenge Code](#grid-sizing-chaallenge-code)
+      - [Grid Sizing Challenge Code](#grid-sizing-challenge-code)
+    - [Grid Placement](#grid-placement)
   - [Javascript](#javascript)
 
 
@@ -548,6 +549,10 @@ Create a responsive Web Design Agency website using media queries to make the we
 
 ### Flexbox
 
+#### CSS Tricks - Flexbox Cheat Sheet
+
+[CSS Flexbox Cheat Sheet Link](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 Change the display property of the navbar to utilise flexbox and make the elements inline.
 
 #### [Display: flex code](Display_Flex)
@@ -627,9 +632,7 @@ we can use `align-self` on the child item to set its individual position within 
 We use align-content to align content along the main axis when `flex-wrap` is set to `wrap`.
 
 
-## CSS Tricks - Flexbox Cheat Sheet
 
-[CSS Flexbox Cheat Sheet Link](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 ### Display Grid
@@ -651,7 +654,9 @@ Grid sizing can be set in different ways including:
 
 Set CSS rules to make the purple items size, shrink and grow the same as the green example items.
 
-#### [Grid Sizing Chaallenge Code](Grid_Sizing/test.html)
+#### [Grid Sizing Challenge Code](Grid_Sizing/test.html)
+
+### Grid Placement
 
 
 
