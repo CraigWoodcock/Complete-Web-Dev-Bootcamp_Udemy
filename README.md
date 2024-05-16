@@ -87,6 +87,8 @@
       - [Grid Sizing Examples](#grid-sizing-examples)
       - [Grid Sizing Challenge Code](#grid-sizing-challenge-code)
     - [Grid Placement](#grid-placement)
+      - [Grid Placement Code](#grid-placement-code)
+    - [Mondrian Painting Project](#mondrian-painting-project)
   - [Javascript](#javascript)
 
 
@@ -649,9 +651,6 @@ we can use `align-self` on the child item to set its individual position within 
 We use align-content to align content along the main axis when `flex-wrap` is set to `wrap`.
 
 
-
-
-
 ### Display Grid
 
 Create a checkers board using css grid.
@@ -674,6 +673,12 @@ Set CSS rules to make the purple items size, shrink and grow the same as the gre
 #### [Grid Sizing Challenge Code](Grid_Sizing/test.html)
 
 ### Grid Placement
+
+#### [Grid Placement Code](Grid_Placement)
+
+### Mondrian Painting Project
+
+
 
 
 
